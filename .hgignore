@@ -4,6 +4,7 @@ bin/**
 *.pdb
 *.user
 *.cache
+*.docstates
 *.suo
 obj/**
 _ReSharper.*
